@@ -18,5 +18,5 @@ For first semester different recommended channels :
   
 Links To Other Semesters :
 
-  2nd Semester: https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main
+ [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
    
