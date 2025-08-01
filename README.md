@@ -12,4 +12,11 @@ For first semester different recommended channels :
 
 3. Programming Fundamentals(Theory+Lab) :
    - Nesco academy.
+  
+4. Fundamental English(Theory + Lab) :
+   - Khan Academy.
+  
+Links To Other Semesters :
+
+  2nd Semester: https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main
    
