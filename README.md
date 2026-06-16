@@ -6,7 +6,7 @@ Links To Other Semesters :
 
  - 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
    
- - 📙 [3rd Semester](https://github.com/Baziluddin/3rd-Semester-)
+ - 📙 [3rd Semester KHI](https://github.com/Baziluddin/3rd-Semester-)
 
 
 # 📚 Semester 1
