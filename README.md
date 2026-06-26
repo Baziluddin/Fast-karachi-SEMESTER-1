@@ -1,13 +1,18 @@
 # Fast-karachi-SEMESTER-1
 Fast Nuces Karachi BSCS 1ST SEMESTER REPOSITORY WITH ALL PASTPAPERS,NOTES,ASSIGNMENTS.
 - ⭐ If this repository helped you, please give it a star!
-  
+
+----
+
 Links To Other Semesters :
 
  - 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
    
  - 📙 [3rd Semester KHI](https://github.com/Baziluddin/3rd-Semester-)
+   
+- 📙 [4th Semester KHI](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER---4)
 
+----
 
 # 📚 Semester 1
 
@@ -22,7 +27,7 @@ Links To Other Semesters :
 | 7 | CS1002 | [Programming Fundamentals (Theory)](./Programming%20Fundamentals%20(Theory)) | 3 |
 | 8 | CL1002 | [Programming Fundamentals (LAB)](./Programming%20Fundamentals%20(LAB)) | 1 |
 
-   
+----
 
 # 🎥 Recommended Channels
 
@@ -44,21 +49,21 @@ Links To Other Semesters :
 
 - Khan Academy
 
+----
 
 # 🔗 Useful Websites
 
 - Wonder.site – FAST resources
-- Quizlet – Study flashcards
 - GeeksforGeeks – Programming
 - W3Schools – Web Development
 - Overleaf – LaTeX reports
 - Canva – Presentations
 
+----
+
 # 🛠 Useful Tools
 
 - ChatGPT
-- Notion
 - Visual Studio Code
 - GitHub
-- Draw.io
 - Canva
